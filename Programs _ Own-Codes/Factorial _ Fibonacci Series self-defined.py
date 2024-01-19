@@ -24,3 +24,7 @@ def fibonacci(n):
 j = int(input("Put a number to find its Fibonacci sequence: "))
 
 print(fibonacci(j))
+
+
+
+
