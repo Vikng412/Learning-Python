@@ -1,0 +1,5 @@
+""This is the file I'll be performing File IO operation on.
+This text must be preserved""
+
+Text check, 1 2 3.
+Seems Fine:)

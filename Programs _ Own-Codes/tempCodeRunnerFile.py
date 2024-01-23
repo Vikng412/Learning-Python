@@ -1,0 +1,11 @@
+int(f"My name is {person_name} and I am {num} years old. If I were president, I'd \n"
+          f"do a whole bunch of {adjective} things:-\n"
+          f"1. I would drive the biggest {color} car in the country. And that car\n"
+          f"would go faster than any other {noun2} in the world!\n\n"
+          f"2. Everyone would eat pepperoni {food_type} for dinner.\n\n"
+          f"3. I would live in the statue of {noun} and build a {verb_ing} pool at her feet.\n\n"
+          f"4. I would wear a {clothing} on my head, and everyone would say I look \n"
+          f"{adjective} like {celeb}.\n\n"
+          f"5. School would be open only {num2} days a year.\n\n"
+          f"6. I would give my friends the best jobs, I would nominate {person_name2} to be secretary of the President\n"
+          f"{person_name

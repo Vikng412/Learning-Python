@@ -1,3 +1,5 @@
+global person_name
+global person_name2
 def welcome():
     print("Welcome to the game of MadLibs!!")
     print("Enter the directed type of words below, when asked")
@@ -29,7 +31,7 @@ def madlibs_gen():
           f"4. I would wear a {clothing} on my head, and everyone would say I look \n"
           f"{adjective} like {celeb}.\n\n"
           f"5. School would be open only {num2} days a year.\n\n"
-          f"6. I would give my friends the best jobs, I would nominate {person_name2} to be secretary of (the)\n"
+          f"6. I would give my friends the best jobs, I would nominate {person_name2} to be secretary of the President\n"
           f"{person_name3} and {person_name4} could be vice {occupation}.\n\n")
 
 
