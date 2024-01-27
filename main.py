@@ -1,4 +1,12 @@
-list1 = [1,2,4,5,6,7]
-l = list(map(lambda x: x*x, list1))
+class Person:
+    def __init__(self, x, y, z):
+        self.name = x
+        self.age = y
+        self.health = z
+    
+    def info(self):
+        print(f"{self.name} is a {self.age} years old, with {self.health} pts of health!")
 
-print(l)
+
+a = Person("Kanishk", "20", "100")
+a.info()
