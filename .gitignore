@@ -2,3 +2,4 @@
 venv/
 .vs/
 main.py
+!**/main.py
