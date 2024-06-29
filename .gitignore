@@ -1,5 +1,5 @@
 .idea/
 venv/
 .vs/
-main.py
-!**/main.py
+/main.py
+!main.py
